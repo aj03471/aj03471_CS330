@@ -1,4 +1,4 @@
-vlog top.v tb.v 
+vlog tb.v ALU.v 
 
 vsim -novopt work.tb
 
